@@ -1,0 +1,6 @@
+pandas==2.2.3
+biopython==1.85
+numpy==2.2.5
+scikit-learn==1.6.1
+matplotlib==3.10.3
+datasets==3.6.0
